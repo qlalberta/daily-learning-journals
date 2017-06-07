@@ -1,6 +1,6 @@
-# daily-learning journal
+# daily-learning journal(201)
 
-## for Stephanine Lingwood
+## Instructor: Stephanine Lingwood
 
 This is my place to write about
   my experiences at Code Fellows
